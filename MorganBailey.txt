@@ -1,0 +1,4 @@
+Environment: VMWare virtual Windows 8.1 
+             intel core i7 2.19 GHz
+             
+Elapsed time: 3718 milliseconds
